@@ -1,0 +1,5 @@
+# Ignore all generated audit reports
+audit_report_*.txt
+
+# Ignore Python cache files
+__pycache__/
